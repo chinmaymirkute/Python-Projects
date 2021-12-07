@@ -26,7 +26,7 @@ skills = input("What are your skills?\n ")
 project = input("Enter some of your projects (if any)\n ")
 
 #string concatenation
-print("Here is you CV generated on the basis of your given data\n " +"NAME:\n" +name+ "\n " +"ADDRESS:\n"+address + "\n " +"PHONE:\n"+phone + "\n " +"EMAIL:\n"+email + "\n " +"TOPICS:\n"+topics + "\n " +"EDUCATION:\n"+education + "\n " +"EXPERIENCE:\n"+experience + "\n " +"SKILLS:\n"+skills + "\n " +"PROJECT:\n"+project)
+print("Here is your CV generated on the basis of your given data\n " +"NAME:\n" +name+ "\n " +"ADDRESS:\n"+address + "\n " +"PHONE:\n"+phone + "\n " +"EMAIL:\n"+email + "\n " +"TOPICS:\n"+topics + "\n " +"EDUCATION:\n"+education + "\n " +"EXPERIENCE:\n"+experience + "\n " +"SKILLS:\n"+skills + "\n " +"PROJECT:\n"+project)
 
 
 
