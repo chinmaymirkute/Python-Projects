@@ -7,7 +7,7 @@
 
 import smtplib
 my_email = "your email id"
-password = ""
+password = "your password"
 
 with smtplib.SMTP("smtp.gmail.com") as connection:
     connection.starttls()
